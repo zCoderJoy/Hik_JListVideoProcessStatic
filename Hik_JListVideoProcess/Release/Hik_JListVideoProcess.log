@@ -1,0 +1,68 @@
+﻿生成启动时间为 2014/7/14 11:04:16。
+     1>项目“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Hik_JListVideoProcess\Hik_JListVideoProcess.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\\OpenCV246\include /I..\\OpenCV246\include\opencv /I..\\OpenCV246\include\opencv2 /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Hik_JListVideoProcess.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt /D _CRT_SECURE_NO_WARNINGS stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\\OpenCV246\include /I..\\OpenCV246\include\opencv /I..\\OpenCV246\include\opencv2 /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Hik_JListVideoProcess.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt /D _CRT_SECURE_NO_WARNINGS CamShift.cpp CvvImage.cpp GaussMix.cpp GaussTargetBuffer.cpp GaussTargetFrame.cpp Hik_JListVideoProcess.cpp Hik_JListVideoProcessDlg.cpp ReceiveVideoData.cpp VideoData.cpp VideoDataBuffer.cpp VideoPostProcess.cpp VideoProcess.cpp
+         CamShift.cpp
+         CvvImage.cpp
+         GaussMix.cpp
+         GaussTargetBuffer.cpp
+         GaussTargetFrame.cpp
+         Hik_JListVideoProcess.cpp
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\HCNetSDK.h(757): warning C4005: “ZOOM_IN”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\HCNetSDK.h(758): warning C4005: “ZOOM_OUT”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+         Hik_JListVideoProcessDlg.cpp
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\HCNetSDK.h(757): warning C4005: “ZOOM_IN”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\HCNetSDK.h(758): warning C4005: “ZOOM_OUT”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+         ReceiveVideoData.cpp
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\HCNetSDK.h(757): warning C4005: “ZOOM_IN”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\HCNetSDK.h(758): warning C4005: “ZOOM_OUT”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+     1>ReceiveVideoData.cpp(534): warning C4101: “pBuffer”: 未引用的局部变量
+     1>ReceiveVideoData.cpp(681): warning C4101: “pBuffer”: 未引用的局部变量
+     1>ReceiveVideoData.cpp(706): warning C4101: “pBuffer”: 未引用的局部变量
+         VideoData.cpp
+         VideoDataBuffer.cpp
+         VideoPostProcess.cpp
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\HCNetSDK.h(757): warning C4005: “ZOOM_IN”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\HCNetSDK.h(758): warning C4005: “ZOOM_OUT”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+         VideoProcess.cpp
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\HCNetSDK.h(757): warning C4005: “ZOOM_IN”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\HCNetSDK.h(758): warning C4005: “ZOOM_OUT”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+     1>VideoProcess.cpp(1101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>VideoProcess.cpp(1111): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /l"0x0804" /IRelease\ /nologo /fo"Release\Hik_JListVideoProcess.res" Hik_JListVideoProcess.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2012\Projects\Hik_JListVideoProcessStatic\Release\Hik_JListVideoProcess.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\\OpenCV246\staticlib vfw32.lib COMCTL32.LIB IlmImf.lib libjasper.lib libjpeg.lib libpng.lib libtiff.lib opencv_calib3d246.lib opencv_contrib246.lib opencv_core246.lib opencv_features2d246.lib opencv_flann246.lib opencv_gpu246.lib opencv_haartraining_engine.lib opencv_highgui246.lib opencv_imgproc246.lib opencv_legacy246.lib opencv_ml246.lib opencv_nonfree246.lib opencv_objdetect246.lib opencv_photo246.lib opencv_stitching246.lib opencv_ts246.lib opencv_video246.lib opencv_videostab246.lib zlib.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\VS2012\Projects\Hik_JListVideoProcessStatic\Release\Hik_JListVideoProcess.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2012\Projects\Hik_JListVideoProcessStatic\Release\Hik_JListVideoProcess.lib" /MACHINE:X86 /SAFESEH Release\Hik_JListVideoProcess.res
+         Release\CamShift.obj
+         Release\CvvImage.obj
+         Release\GaussMix.obj
+         Release\GaussTargetBuffer.obj
+         Release\GaussTargetFrame.obj
+         Release\Hik_JListVideoProcess.obj
+         Release\Hik_JListVideoProcessDlg.obj
+         Release\ReceiveVideoData.obj
+         Release\stdafx.obj
+         Release\VideoData.obj
+         Release\VideoDataBuffer.obj
+         Release\VideoPostProcess.obj
+         Release\VideoProcess.obj
+         正在生成代码
+         已完成代码的生成
+         Hik_JListVideoProcess.vcxproj -> D:\VS2012\Projects\Hik_JListVideoProcessStatic\Release\Hik_JListVideoProcess.exe
+     1>已完成生成项目“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Hik_JListVideoProcess\Hik_JListVideoProcess.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.82

@@ -1,0 +1,311 @@
+﻿生成启动时间为 2014/7/14 10:59:44。
+     1>项目“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Hik_JListVideoProcess\Hik_JListVideoProcess.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\\OpenCV246\include /I..\\OpenCV246\include\opencv /I..\\OpenCV246\include\opencv2 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Hik_JListVideoProcess.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\\OpenCV246\include /I..\\OpenCV246\include\opencv /I..\\OpenCV246\include\opencv2 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Hik_JListVideoProcess.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CamShift.cpp CvvImage.cpp GaussMix.cpp GaussTargetBuffer.cpp GaussTargetFrame.cpp Hik_JListVideoProcess.cpp Hik_JListVideoProcessDlg.cpp ReceiveVideoData.cpp VideoData.cpp VideoDataBuffer.cpp VideoPostProcess.cpp VideoProcess.cpp
+         VideoProcess.cpp
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\hcnetsdk.h(757): warning C4005: “ZOOM_IN”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\hcnetsdk.h(758): warning C4005: “ZOOM_OUT”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\videoprocess.cpp(1101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\videoprocess.cpp(1111): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+         VideoPostProcess.cpp
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\hcnetsdk.h(757): warning C4005: “ZOOM_IN”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\hcnetsdk.h(758): warning C4005: “ZOOM_OUT”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+         VideoDataBuffer.cpp
+         VideoData.cpp
+         ReceiveVideoData.cpp
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\hcnetsdk.h(757): warning C4005: “ZOOM_IN”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\hcnetsdk.h(758): warning C4005: “ZOOM_OUT”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\receivevideodata.cpp(534): warning C4101: “pBuffer”: 未引用的局部变量
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\receivevideodata.cpp(681): warning C4101: “pBuffer”: 未引用的局部变量
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\receivevideodata.cpp(706): warning C4101: “pBuffer”: 未引用的局部变量
+         Hik_JListVideoProcessDlg.cpp
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\hcnetsdk.h(757): warning C4005: “ZOOM_IN”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\hcnetsdk.h(758): warning C4005: “ZOOM_OUT”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+         Hik_JListVideoProcess.cpp
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\hcnetsdk.h(757): warning C4005: “ZOOM_IN”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\vs2012\projects\hik_jlistvideoprocessstatic\hik_jlistvideoprocess\hcnetsdk.h(758): warning C4005: “ZOOM_OUT”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+         GaussTargetFrame.cpp
+         GaussTargetBuffer.cpp
+         GaussMix.cpp
+         CvvImage.cpp
+         CamShift.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /l"0x0804" /IDebug\ /nologo /fo"Debug\Hik_JListVideoProcess.res" Hik_JListVideoProcess.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\Hik_JListVideoProcess.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\\OpenCV246\staticlib vfw32.lib COMCTL32.LIB IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib opencv_calib3d246d.lib opencv_contrib246d.lib opencv_core246d.lib opencv_features2d246d.lib opencv_flann246d.lib opencv_gpu246d.lib opencv_haartraining_engined.lib opencv_highgui246d.lib opencv_imgproc246d.lib opencv_legacy246d.lib opencv_ml246d.lib opencv_nonfree246d.lib opencv_objdetect246d.lib opencv_photo246d.lib opencv_stitching246d.lib opencv_ts246d.lib opencv_video246d.lib opencv_videostab246d.lib zlibd.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\Hik_JListVideoProcess.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\Hik_JListVideoProcess.lib" /MACHINE:X86 Debug\Hik_JListVideoProcess.res
+         Debug\CamShift.obj
+         Debug\CvvImage.obj
+         Debug\GaussMix.obj
+         Debug\GaussTargetBuffer.obj
+         Debug\GaussTargetFrame.obj
+         Debug\Hik_JListVideoProcess.obj
+         Debug\Hik_JListVideoProcessDlg.obj
+         Debug\ReceiveVideoData.obj
+         Debug\stdafx.obj
+         Debug\VideoData.obj
+         Debug\VideoDataBuffer.obj
+         Debug\VideoPostProcess.obj
+         Debug\VideoProcess.obj
+     1>IlmImfd.lib(half.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(half.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(IexBaseExc.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(IexBaseExc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(IexThrowErrnoExc.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(IexThrowErrnoExc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(IlmThreadMutexWin32.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(IlmThreadMutexWin32.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(IlmThreadPool.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(IlmThreadPool.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(IlmThreadSemaphoreWin32.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(IlmThreadSemaphoreWin32.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(IlmThreadWin32.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(IlmThreadWin32.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfB44Compressor.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfB44Compressor.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfBoxAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfBoxAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfChannelList.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfChannelList.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfChannelListAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfChannelListAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfChromaticities.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfChromaticities.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfChromaticitiesAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfChromaticitiesAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfCompressionAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfCompressionAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfCompressor.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfCompressor.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfConvert.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfConvert.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfDoubleAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfDoubleAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfEnvmapAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfEnvmapAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfFloatAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfFloatAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfFrameBuffer.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfFrameBuffer.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfHeader.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfHeader.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfHuf.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfHuf.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfInputFile.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfInputFile.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfIntAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfIntAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfIO.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfIO.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfKeyCode.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfKeyCode.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfKeyCodeAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfKeyCodeAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfLineOrderAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfLineOrderAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfMatrixAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfMatrixAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfMisc.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfMisc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfOpaqueAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfOpaqueAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfOutputFile.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfOutputFile.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfPizCompressor.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfPizCompressor.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfPreviewImage.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfPreviewImage.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfPreviewImageAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfPreviewImageAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfPxr24Compressor.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfPxr24Compressor.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfRationalAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfRationalAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfRleCompressor.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfRleCompressor.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfScanLineInputFile.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfScanLineInputFile.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfStandardAttributes.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfStandardAttributes.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfStdIO.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfStdIO.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfStringAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfStringAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfStringVectorAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfStringVectorAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfThreading.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfThreading.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfTileDescriptionAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfTileDescriptionAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfTiledInputFile.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfTiledInputFile.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfTiledMisc.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfTiledMisc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfTileOffsets.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfTileOffsets.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfTimeCode.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfTimeCode.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfTimeCodeAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfTimeCodeAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfVecAttribute.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfVecAttribute.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfWav.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfWav.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>IlmImfd.lib(ImfZipCompressor.obj) : warning LNK4099: 未找到 PDB“ilmimfd.pdb”(使用“IlmImfd.lib(ImfZipCompressor.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\ilmimfd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_cm.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_cm.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_debug.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_debug.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_icc.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_icc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_iccdata.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_iccdata.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_image.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_image.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_init.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_init.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_malloc.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_malloc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_seq.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_seq.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_stream.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_stream.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_string.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_string.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_tvp.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_tvp.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jas_version.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jas_version.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jp2_cod.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jp2_cod.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jp2_dec.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jp2_dec.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jp2_enc.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jp2_enc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_bs.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_bs.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_cs.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_cs.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_dec.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_dec.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_enc.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_enc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_math.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_math.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_mct.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_mct.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_mqcod.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_mqcod.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_mqdec.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_mqdec.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_mqenc.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_mqenc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_qmfb.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_qmfb.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_t1cod.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_t1cod.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_t1dec.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_t1dec.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_t1enc.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_t1enc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_t2cod.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_t2cod.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_t2dec.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_t2dec.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_t2enc.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_t2enc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_tagtree.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_tagtree.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_tsfb.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_tsfb.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjasperd.lib(jpc_util.obj) : warning LNK4099: 未找到 PDB“libjasperd.pdb”(使用“libjasperd.lib(jpc_util.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjasperd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcapimin.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcapimin.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcapistd.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcapistd.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jccoefct.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jccoefct.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jccolor.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jccolor.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcdctmgr.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcdctmgr.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jchuff.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jchuff.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcinit.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcinit.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcmainct.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcmainct.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcmarker.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcmarker.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcmaster.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcmaster.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcomapi.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcomapi.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcparam.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcparam.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcphuff.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcphuff.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcprepct.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcprepct.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jcsample.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jcsample.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdapimin.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdapimin.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdapistd.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdapistd.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdatadst.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdatadst.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdatasrc.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdatasrc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdcoefct.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdcoefct.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdcolor.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdcolor.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jddctmgr.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jddctmgr.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdhuff.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdhuff.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdinput.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdinput.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdmainct.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdmainct.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdmarker.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdmarker.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdmaster.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdmaster.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdmerge.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdmerge.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdphuff.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdphuff.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdpostct.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdpostct.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jdsample.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jdsample.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jerror.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jerror.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jfdctflt.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jfdctflt.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jfdctfst.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jfdctfst.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jfdctint.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jfdctint.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jidctflt.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jidctflt.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jidctfst.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jidctfst.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jidctint.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jidctint.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jidctred.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jidctred.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jmemansi.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jmemansi.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jmemmgr.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jmemmgr.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jquant1.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jquant1.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jquant2.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jquant2.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libjpegd.lib(jutils.obj) : warning LNK4099: 未找到 PDB“libjpegd.pdb”(使用“libjpegd.lib(jutils.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libjpegd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(png.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(png.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngerror.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngerror.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngget.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngget.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngmem.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngmem.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngread.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngread.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngrio.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngrio.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngrtran.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngrtran.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngrutil.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngrutil.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngset.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngset.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngtrans.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngtrans.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngwio.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngwio.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngwrite.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngwrite.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngwtran.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngwtran.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libpngd.lib(pngwutil.obj) : warning LNK4099: 未找到 PDB“libpngd.pdb”(使用“libpngd.lib(pngwutil.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libpngd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_aux.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_aux.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_close.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_close.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_codec.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_codec.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_color.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_color.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_compress.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_compress.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_dir.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_dir.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_dirinfo.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_dirinfo.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_dirread.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_dirread.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_dirwrite.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_dirwrite.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_dumpmode.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_dumpmode.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_error.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_error.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_fax3.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_fax3.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_fax3sm.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_fax3sm.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_flush.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_flush.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_getimage.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_getimage.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_luv.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_luv.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_lzw.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_lzw.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_next.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_next.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_open.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_open.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_packbits.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_packbits.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_pixarlog.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_pixarlog.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_predict.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_predict.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_read.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_read.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_strip.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_strip.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_swab.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_swab.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_thunder.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_thunder.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_tile.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_tile.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_warning.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_warning.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_write.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_write.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_zip.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_zip.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libtiffd.lib(tif_win32.obj) : warning LNK4099: 未找到 PDB“libtiffd.pdb”(使用“libtiffd.lib(tif_win32.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\libtiffd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(alloc.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(alloc.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(arithm.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(arithm.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(array.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(array.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(convert.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(convert.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(copy.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(copy.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(datastructs.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(datastructs.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(drawing.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(drawing.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(dxt.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(dxt.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(gpumat.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(gpumat.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(lapack.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(lapack.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(mathfuncs.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(mathfuncs.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(matmul.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(matmul.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(matop.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(matop.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(matrix.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(matrix.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(opengl_interop.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(opengl_interop.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(opengl_interop_deprecated.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(opengl_interop_deprecated.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(parallel.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(parallel.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(persistence.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(persistence.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(precomp.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(precomp.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(rand.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(rand.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(stat.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(stat.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(system.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(system.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_core246d.lib(tables.obj) : warning LNK4099: 未找到 PDB“opencv_core246d.pdb”(使用“opencv_core246d.lib(tables.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_core246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(loadsave.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(loadsave.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(precomp.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(precomp.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(utils.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(utils.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(window_w32.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(window_w32.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(grfmt_base.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(grfmt_base.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(grfmt_bmp.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(grfmt_bmp.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(grfmt_exr.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(grfmt_exr.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(grfmt_jpeg.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(grfmt_jpeg.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(grfmt_jpeg2000.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(grfmt_jpeg2000.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(grfmt_png.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(grfmt_png.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(grfmt_pxm.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(grfmt_pxm.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(grfmt_sunras.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(grfmt_sunras.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(grfmt_tiff.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(grfmt_tiff.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_highgui246d.lib(bitstrm.obj) : warning LNK4099: 未找到 PDB“opencv_highgui246d.pdb”(使用“opencv_highgui246d.lib(bitstrm.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_highgui246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(color.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(color.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(filter.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(filter.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(histogram.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(histogram.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(imgwarp.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(imgwarp.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(moments.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(moments.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(morph.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(morph.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(precomp.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(precomp.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(smooth.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(smooth.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(sumpixels.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(sumpixels.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(tables.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(tables.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(templmatch.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(templmatch.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(thresh.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(thresh.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(undistort.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(undistort.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_imgproc246d.lib(utils.obj) : warning LNK4099: 未找到 PDB“opencv_imgproc246d.pdb”(使用“opencv_imgproc246d.lib(utils.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_imgproc246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_video246d.lib(camshift.obj) : warning LNK4099: 未找到 PDB“opencv_video246d.pdb”(使用“opencv_video246d.lib(camshift.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_video246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>opencv_video246d.lib(precomp.obj) : warning LNK4099: 未找到 PDB“opencv_video246d.pdb”(使用“opencv_video246d.lib(precomp.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\opencv_video246d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(adler32.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(adler32.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(compress.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(compress.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(crc32.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(crc32.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(deflate.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(deflate.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(gzclose.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(gzclose.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(gzlib.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(gzlib.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(gzread.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(gzread.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(gzwrite.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(gzwrite.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(inflate.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(inflate.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(inftrees.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(inffast.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(inffast.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(trees.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(trees.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(uncompr.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(uncompr.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>zlibd.lib(zutil.obj) : warning LNK4099: 未找到 PDB“zlibd.pdb”(使用“zlibd.lib(zutil.obj)”或在“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\zlibd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         Hik_JListVideoProcess.vcxproj -> D:\VS2012\Projects\Hik_JListVideoProcessStatic\Debug\Hik_JListVideoProcess.exe
+     1>已完成生成项目“D:\VS2012\Projects\Hik_JListVideoProcessStatic\Hik_JListVideoProcess\Hik_JListVideoProcess.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:20.82
